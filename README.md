@@ -191,18 +191,7 @@ Through this project I learned:
 - Creating business insights from raw data
 - Designing interactive BI reports
 
----
 
-## 📂 Project Files
-
-```
-Maven-Market-PowerBI-Dashboard
-
-│── Dataset/
-│── Dashboard Screenshots/
-│── Maven Market Dashboard.pbix
-│── README.md
-```
 
 ---
 
