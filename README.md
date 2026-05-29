@@ -24,7 +24,7 @@ Analyzes overall business sales performance.
 - Store-wise Sales
 - Region-wise Sales Analysis
 
-  ![Sales Analysis Page](image/login_screenshot.png)
+  ![Sales Analysis Page](Sales.PNG)
 
 ---
 
@@ -40,6 +40,7 @@ Provides insights about customer orders and product demand.
 - Product-wise Orders
 - Store-wise Order Analysis
 
+![Order Analysis Page](Order.PNG)
 ---
 
 ### 3. 🔄 Returns Analysis Dashboard
@@ -53,7 +54,8 @@ Tracks product returns and return patterns.
 - Monthly Return Trends
 - Returned Product Analysis
 - Store and Region-wise Returns
-
+  
+![Retun Analysis Page](Return.PNG)
 ---
 
 ### 4. 👥 Customer Insights Dashboard
@@ -68,6 +70,7 @@ Analyzes customer demographics and purchasing behavior.
 - Occupation-wise Sales
 - Customer Income Analysis
 
+![Customer Analysis Page](Customer.PNG)
 ---
 
 ### 5. 🏪 Store Performance Dashboard
@@ -82,6 +85,7 @@ Analyzes store-level business performance.
 - Quantity Sold
 - Store Return Analysis
 
+![Store Analysis Page](last.PNG)
 ---
 
 ## 🛠 Tools & Technologies Used
