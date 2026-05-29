@@ -24,6 +24,8 @@ Analyzes overall business sales performance.
 - Store-wise Sales
 - Region-wise Sales Analysis
 
+  ![Sales Analysis Page](image/login_screenshot.png)
+
 ---
 
 ### 2. 🛒 Orders Overview Dashboard
