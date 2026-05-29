@@ -24,7 +24,7 @@ Analyzes overall business sales performance.
 - Store-wise Sales
 - Region-wise Sales Analysis
 
-  ![Sales Analysis Page](Sales.PNG)
+  ![Sales Analysis Page](sales.PNG)
 
 ---
 
